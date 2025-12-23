@@ -1,2 +1,6 @@
 e_commerce_HW3_dataset.zip
 e_commerce_HW3_dataset
+.venv
+.idea
+__pycache__
+
